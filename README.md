@@ -1,20 +1,29 @@
-# Data-Analytics-Portfolio
-A portfolio showcasing Tableau dashboards, SQL analyses, Python projects, and Business Intelligence case studies.
+Juan Miguel T. Naval
 
-## Key Visualizations
+Data Analyst | Business Intelligence | Python | SQL | Power BI | Tableau
 
-### Churn by Subscription Plan
+--------------------------------------------------
 
-![](churn-by-plan.png)
+📊 Featured Projects
 
-### Support Resolution Time
+🟦 Tasty Bytes Recipe Traffic Prediction
 
-![](resolution-time.png)
+🟨 Fit.ly Subscriber Retention Analysis
 
-### Churn by Support Topic
+🟩 Executive Business Dashboard (Power BI)
 
-![](churn-by-topic.png)
+🟥 Customer Churn Dashboard (Tableau)
 
-### Churn by SLA
+--------------------------------------------------
 
-![](churn-by-sla.png)
+Skills
+
+Python
+SQL
+Power BI
+Tableau
+Pandas
+Scikit-Learn
+Machine Learning
+Dashboard Development
+Business Analytics
