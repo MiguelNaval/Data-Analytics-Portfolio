@@ -40,3 +40,25 @@ The dashboard enables stakeholders to identify churn drivers, monitor KPIs, and 
 ## 📷 Dashboard Preview
 
 *Screenshots will be added below.*
+
+### Overview
+
+![](screenshots/overview.png)
+
+---
+
+### Age Brackets & Groups
+
+![](screenshots/age-groups.png)
+
+---
+
+### Data & International Plan
+
+![](screenshots/plans.png)
+
+---
+
+### Payment Method & Contract Type
+
+![](screenshots/payment-contract.png)
