@@ -1,3 +1,11 @@
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
+![SQL](https://img.shields.io/badge/SQL-Analytics-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Data_Analysis-purple?logo=pandas)
+![Seaborn](https://img.shields.io/badge/Seaborn-Visualization-orange)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+
+# 📉 Fit.ly Subscriber Retention Analysis
+
 # 📉 Fit.ly Subscriber Retention Analysis
 
 End-to-end customer churn analysis using **SQL** and **Python** to identify the primary drivers of subscriber attrition and recommend data-driven retention strategies.
