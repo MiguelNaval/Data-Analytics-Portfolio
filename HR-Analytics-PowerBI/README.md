@@ -1,3 +1,9 @@
+![Power BI](https://img.shields.io/badge/Power_BI-Dashboard-F2C811?logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-Measures-blue)
+![Power Query](https://img.shields.io/badge/Power_Query-ETL-green)
+![Business Intelligence](https://img.shields.io/badge/Business_Intelligence-Analytics-orange)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+
 # 📊 Atlas Labs HR Analytics Dashboard
 
 Interactive **Power BI** dashboard developed to analyze workforce demographics, employee performance, and attrition across Atlas Labs.
