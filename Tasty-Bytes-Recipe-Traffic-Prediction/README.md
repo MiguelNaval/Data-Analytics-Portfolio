@@ -1,3 +1,9 @@
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Machine_Learning-orange?logo=scikitlearn)
+![Machine Learning](https://img.shields.io/badge/Classification-Completed-success)
+![SQL](https://img.shields.io/badge/SQL-Analytics-blue)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+
 # 🍽️ Tasty Bytes Recipe Traffic Prediction
 
 Machine learning project that predicts whether a recipe will achieve **high website traffic** using nutritional information and recipe characteristics.
