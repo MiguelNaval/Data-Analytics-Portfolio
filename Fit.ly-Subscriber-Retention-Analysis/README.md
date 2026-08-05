@@ -6,8 +6,6 @@
 
 # 📉 Fit.ly Subscriber Retention Analysis
 
-# 📉 Fit.ly Subscriber Retention Analysis
-
 End-to-end customer churn analysis using **SQL** and **Python** to identify the primary drivers of subscriber attrition and recommend data-driven retention strategies.
 
 This project analyzes customer demographics, subscription plans, customer support interactions, and service usage to uncover factors influencing churn and support business decision-making.
