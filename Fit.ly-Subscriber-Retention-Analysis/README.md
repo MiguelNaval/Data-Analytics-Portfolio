@@ -83,34 +83,25 @@ Key variables include:
 
 ## Customer Segmentation
 
-*(Insert screenshot here)*
-
-![](customer-segments.png)
+![](churn-by-plan.png)
 
 ---
 
 ## Churn Distribution
 
-*(Insert screenshot here)*
-
-![](churn-distribution.png)
+![](churn-by-sla.png)
 
 ---
 
 ## Customer Support Analysis
 
-*(Insert screenshot here)*
-
-![](support-analysis.png)
+![](churn-by-topic.png)
 
 ---
 
 ## Key Business Findings
 
-*(Insert screenshot here)*
-
-![](business-insights.png)
-
+![](resolution-time.png)
 ---
 
 # 💡 Key Insights
