@@ -101,7 +101,7 @@ Conducted aggregations and sorting to address the following business questions:
 
 ### Complete Alteryx Workflow
 
-![Alteryx Workflow Overview](Screenshots/Alteryx-workflow-overview.png)
+![Alteryx Workflow Overview](Alteryx-Workflow-Overview.png)
 
 *End-to-end Alteryx workflow covering data integration, preparation, transformation, and sales analysis.*
 
