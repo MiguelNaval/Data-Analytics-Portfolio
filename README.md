@@ -1,8 +1,10 @@
 # Hi, I'm Juan Miguel Naval 👋
 
-**Data Analyst | Business Intelligence Analyst | Chemical Engineer**
+**Data Analyst | Business Intelligence Analyst | Data Engineer | Chemical Engineer**
 
-I am a data professional with experience transforming operational and business data into actionable insights through **Python, SQL, Power BI, Tableau, and Excel**. My background in process engineering and Lean Six Sigma allows me to combine analytical thinking with business problem-solving to improve operational performance and support data-driven decision making.
+I am a data professional with a background in chemical and process engineering, experienced in transforming operational and business data into actionable insights. I leverage **Python, SQL, Power BI, Tableau, Alteryx, and Excel** to perform data analysis, develop business intelligence solutions, and automate data workflows.
+
+Combining analytical expertise with process engineering and Lean Six Sigma principles, I aim to bridge the gap between data and business operations by improving efficiency, identifying performance opportunities, and supporting data-driven decision-making.
 
 ---
 
@@ -18,31 +20,34 @@ I am a data professional with experience transforming operational and business d
 
 # 🛠 Technical Skills
 
-### Languages
-
+### Programming & Query Languages
 - Python
 - SQL
 - MySQL
 - Hive SQL
 
-### Business Intelligence
+### Data Engineering & ETL
+- Alteryx Designer
+- Data Preparation and Transformation
+- Data Blending and Integration
+- ETL Workflow Development
+- Data Cleansing and Validation
 
+### Business Intelligence
 - Power BI
 - Tableau
 - Power Query
 - DAX
 
 ### Data Analytics
-
 - Pandas
 - NumPy
 - Matplotlib
 - Seaborn
-- Excel
+- Microsoft Excel
 - VBA
 
 ### Machine Learning
-
 - Scikit-Learn
 - Classification
 - Feature Engineering
@@ -54,12 +59,37 @@ I am a data professional with experience transforming operational and business d
 
 ---
 
-## 🍽️ Tasty Bytes Recipe Traffic Prediction
+## 📊 Alteryx Sales Data Analysis
 
-End-to-end machine learning project predicting high-traffic recipes using Python and Scikit-learn.
+End-to-end retail sales analytics project using Alteryx Designer to integrate, transform, and analyze customer and order datasets for profitability insights.
 
 **Highlights**
+- Data Integration and Blending
+- Data Cleansing and Transformation
+- Automated ETL Workflows
+- Sales and Profitability Analysis
+- Regional and Product Performance Analysis
+- Automated Excel Reporting
 
+**Tech Stack**
+
+`Alteryx` `ETL` `Data Preparation` `Excel`
+
+📷 Workflow Preview
+
+![](https://raw.githubusercontent.com/MiguelNaval/Data-Analytics-Portfolio/main/Alteryx-Sales-Data-Analysis/Alteryx-Workflow-Overview.png)
+
+🔗 Repository
+
+https://github.com/MiguelNaval/Data-Analytics-Portfolio/tree/main/Alteryx-Sales-Data-Analysis
+
+---
+
+## 🍽️ Tasty Bytes Recipe Traffic Prediction
+
+End-to-end machine learning project predicting high-traffic recipes using Python and Scikit-Learn.
+
+**Highlights**
 - Data Cleaning
 - Exploratory Data Analysis
 - Feature Engineering
@@ -85,7 +115,6 @@ https://github.com/MiguelNaval/Tasty-Bytes-Recipe-Traffic-Prediction
 Customer churn analysis using SQL and Python to identify churn drivers and recommend customer retention strategies.
 
 **Highlights**
-
 - SQL Analysis
 - Customer Segmentation
 - Statistical Analysis
@@ -110,7 +139,6 @@ https://github.com/MiguelNaval/Fitly-Subscriber-Retention-Analysis
 Interactive Tableau dashboard analyzing customer churn across demographics, payment methods, contracts, and service plans.
 
 **Highlights**
-
 - Customer Analytics
 - Interactive Dashboards
 - KPI Reporting
@@ -135,7 +163,6 @@ https://github.com/MiguelNaval/Telecom-Customer-Retention-Dashboard
 Interactive Power BI dashboard analyzing workforce demographics, employee performance, and attrition.
 
 **Highlights**
-
 - HR Analytics
 - DAX
 - Power Query
@@ -156,11 +183,17 @@ https://github.com/MiguelNaval/Atlas-Labs-HR-Analytics-Dashboard
 
 ---
 
-# 🎓 Certifications
+# 🎓 Certifications & Licenses
 
+### Data & Analytics
 - DataCamp Certified Data Analyst
 - DataCamp Certified Data Scientist
+- DataCamp Certified Data Engineer
+
+### Process Improvement
 - Lean Six Sigma Master Black Belt
+
+### Professional Licenses
 - Licensed Chemical Engineer
 - Licensed Chemical Technician
 - Licensed Master Plumber
@@ -173,7 +206,7 @@ https://github.com/MiguelNaval/Atlas-Labs-HR-Analytics-Dashboard
 - Machine Learning
 - Power BI
 - Cloud Analytics
-- Data Engineering
+- Advanced Data Engineering
 
 ---
 
